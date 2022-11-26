@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">mediaPlayerApp</string>
+    <string name="text">TEXT</string>
 </resources>
